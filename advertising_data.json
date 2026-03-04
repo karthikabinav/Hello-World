@@ -1,0 +1,60 @@
+{
+  "advertising_campaigns": [
+    {
+      "CampaignID": "CAMP001",
+      "StartDate": "2020-01-10",
+      "EndDate": "2020-01-20",
+      "SpentAmount": 1500.00,
+      "AdType": "Social Media",
+      "Impressions": 50000
+    },
+    {
+      "CampaignID": "CAMP002",
+      "StartDate": "2020-01-14",
+      "EndDate": "2020-01-24",
+      "SpentAmount": 2750.50,
+      "AdType": "Video",
+      "Impressions": 75000
+    },
+    {
+      "CampaignID": "CAMP003",
+      "StartDate": "2020-01-14",
+      "EndDate": "2020-01-21",
+      "SpentAmount": 3200.75,
+      "AdType": "Banner",
+      "Impressions": 90000
+    },
+    {
+      "CampaignID": "CAMP004",
+      "StartDate": "2020-01-15",
+      "EndDate": "2020-01-25",
+      "SpentAmount": 1800.00,
+      "AdType": "Search Engine",
+      "Impressions": 60000
+    },
+    {
+      "CampaignID": "CAMP005",
+      "StartDate": "2020-01-14",
+      "EndDate": "2020-01-22",
+      "SpentAmount": 4100.25,
+      "AdType": "Social Media",
+      "Impressions": 120000
+    },
+    {
+      "CampaignID": "CAMP006",
+      "StartDate": "2020-01-12",
+      "EndDate": "2020-01-18",
+      "SpentAmount": 2200.00,
+      "AdType": "Video",
+      "Impressions": 65000
+    },
+    {
+      "CampaignID": "CAMP007",
+      "StartDate": "2020-01-14",
+      "EndDate": "2020-01-19",
+      "SpentAmount": 1950.00,
+      "AdType": "Banner",
+      "Impressions": 55000
+    }
+  ]
+}
